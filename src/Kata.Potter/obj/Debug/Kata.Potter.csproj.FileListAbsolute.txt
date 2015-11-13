@@ -1,0 +1,5 @@
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter\bin\Debug\Kata.Potter.dll
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter\bin\Debug\Kata.Potter.pdb
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter\obj\Debug\Kata.Potter.csprojResolveAssemblyReference.cache
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter\obj\Debug\Kata.Potter.dll
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter\obj\Debug\Kata.Potter.pdb

@@ -1,0 +1,7 @@
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter.Tests\obj\Debug\Kata.Potter.Tests.csprojResolveAssemblyReference.cache
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter.Tests\bin\Debug\Kata.Potter.Tests.dll
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter.Tests\bin\Debug\Kata.Potter.Tests.pdb
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter.Tests\bin\Debug\nunit.framework.dll
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter.Tests\bin\Debug\nunit.framework.xml
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter.Tests\obj\Debug\Kata.Potter.Tests.dll
+C:\Source\Bitbucket\kata-potter\src\Kata.Potter.Tests\obj\Debug\Kata.Potter.Tests.pdb
