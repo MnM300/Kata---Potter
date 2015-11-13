@@ -60,32 +60,11 @@ namespace Kata.Potter.Tests
         
         public static double Optimizeset(int[] bookList)
         {
-            var uniqueList = bookList.GroupBy(x => x)
-                                     .Where(g => g.Count() == 1)
-                                     .SelectMany(g => g)
-                                     .ToList();
+            var distinctList = bookList.Distinct().ToArray();
 
-            var duplicateList = bookList.GroupBy(x => x)
-                                     .Where(g => g.Count() > 1)
-                                     .SelectMany(g => g)
-                                     .ToList();
+            var duplicateList = bookList.Except(distinctList).ToArray();
 
-            var setOfSets = new List<int[]>();
-            var bookSets = new Dictionary<int, int>();
-
-            foreach (var book in duplicateList)
-            {
-                if (bookSets.ContainsKey(book))
-                {
-                    var bookCount = bookSets[book];
-                    bookSets.Remove(book);
-                    bookSets.Add(book, ++bookCount);
-                }
-                else
-                {
-                    bookSets.Add(book, 1);
-                }
-            }
+            var test = duplicateList;
 
 
             return 0;
